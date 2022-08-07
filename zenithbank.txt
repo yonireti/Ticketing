@@ -13,4 +13,4 @@ Git is an interesting course to learn
 showing the head changes
 adding a new line of text from bugfixer
 Today is a bright and sunny day
-
+We are adding this new line from the GUI 

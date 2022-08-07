@@ -12,3 +12,5 @@ Not just that, it would also spell out the name of the modifier
 Git is an interesting course to learn 
 showing the head changes
 adding a new line of text from bugfixer
+Today is a bright and sunny day
+
